@@ -1,6 +1,6 @@
 # Shreya Munnangi's First CS193 Lab
--it's very informative
--sorry that's all
+- it's very informative
+- sorry that's all
 
 ## Welcome to GitHub Pages
 
